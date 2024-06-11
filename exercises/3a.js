@@ -11,4 +11,21 @@
  */
 export function nameTag(name) {
   // TODO
+  // use .toUpperCase and slice for "name"
+
+const 
+
 }
+
+/*
+Example:
+const quote = 'The house on Mango Street isn’t it.'
+console.log(quote.toUpperCase())
+console.log(quote.toLowerCase())
+Returns:
+THE HOUSE ON MANGO STREET ISN’T IT.
+the house on mango street isn’t it.
+Slice for one part only:
+const quote = 'The house on Mango Street isn’t it.'
+console.log(quote.slice(13, 25))
+*/

@@ -10,7 +10,7 @@ edit images in the most astounding ways!
 - Flip the image? No problem!
 - Make it black and white? Easy!
 - Use AI to give everyone facial tattoos? Planned for a future release!
-
+nom inty
 ## Getting started
 
 1. Make sure your machine is set up according to the instructions with
